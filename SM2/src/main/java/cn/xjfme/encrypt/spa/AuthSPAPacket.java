@@ -50,6 +50,7 @@ public class AuthSPAPacket {
         System.out.println("硬件加密方式验签结果:" + b);
         System.out.println("--签名测试结束--");
         System.out.println();
+        System.out.println("ceshi ");
 
         //第二步解密客户端的加密单包信息
         System.out.println("第二步解密客户端的加密单包信息");
